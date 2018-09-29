@@ -23,8 +23,7 @@ shinyUI(fluidPage(
             )
         ),
         mainPanel(# h3("Confusion matrix for your model"),
-            # tableOutput('confusion')
-            # textOutput("error_rate"),
+            h3("Relative accuracy of trained models"),
             plotOutput('plot1'))
     ),
     wellPanel(
