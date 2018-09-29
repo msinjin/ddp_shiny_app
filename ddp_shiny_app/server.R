@@ -5,6 +5,9 @@ shinyServer(
        
         set.seed(42)
         library(caret)
+        library(e1071)
+        library(caretEnsemble)
+        library(gbm)
  
         model_list <- reactive({
             

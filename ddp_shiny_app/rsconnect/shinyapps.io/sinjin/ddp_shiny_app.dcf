@@ -1,0 +1,12 @@
+name: ddp_shiny_app
+title: ddp_shiny_app
+username:
+account: sinjin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 479709
+bundleId: 1613441
+url: https://sinjin.shinyapps.io/ddp_shiny_app/
+when: 1538259927.27644
+asMultiple: FALSE
+asStatic: FALSE
